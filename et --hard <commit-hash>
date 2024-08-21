@@ -1,0 +1,38 @@
+[33mcommit f75ec75401a225f98f5ad052dd3fd42186bf0a90[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 47eac55 331af60
+Author: richaluthra21 <richaluthra7@gmail.com>
+Date:   Wed Aug 21 20:33:27 2024 +1200
+
+    Merge pull request #8 from richaluthra21/dev-setup
+    
+    added nose arguments
+
+[33mcommit 331af604308a1862f523b7669ed522297043ac6c[m[33m ([m[1;31morigin/dev-setup[m[33m)[m
+Author: richaluthra21 <richaluthra7@gmail.com>
+Date:   Wed Aug 21 04:28:34 2024 -0400
+
+    added nose arguments
+
+[33mcommit 47eac55a983a1d2aff8cecf58e3728f61dff9e81[m
+Author: richaluthra21 <richaluthra7@gmail.com>
+Date:   Wed Aug 21 20:25:14 2024 +1200
+
+    Update setup.cfg
+
+[33mcommit 18c92943beac71ae73fc0c026d438ec044172be5[m
+Author: richaluthra21 <richaluthra7@gmail.com>
+Date:   Wed Aug 21 19:08:50 2024 +1200
+
+    Update user-story.md.
+
+[33mcommit d3cac5a0dc3be6c39a190c41423c18cefb24aca0[m
+Author: richaluthra21 <richaluthra7@gmail.com>
+Date:   Wed Aug 21 19:02:48 2024 +1200
+
+    Create user-story.md.
+
+[33mcommit 6004bb13317ac3783a2b889527db14d8b2b1b503[m
+Author: richaluthra21 <richaluthra7@gmail.com>
+Date:   Wed Aug 21 18:51:46 2024 +1200
+
+    Initial commit
