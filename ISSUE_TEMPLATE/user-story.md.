@@ -1,1 +1,14 @@
+As a [backend developer]
+I need [to add REST APIs for reading, updating, deleting, and listing customer accounts]
+So that [our e-commerce website can efficiently manage customer data via microservices] 
+      
+### Details and Assumptions
+[The database model and a basic REST API to create a customer account already exist.]
+[Development will be done in a Python Flask-based environment.]
+[The environment setup is required for the development.]    
 
+### Acceptance Criteria     
+    gherkin 
+    Given [a running Flask application]  
+    When [the GET, PUT, DELETE, or LIST API endpoints for customers are called]  
+    Then [the corresponding customer data should be retrieved, updated, deleted, or listed accordingly]
